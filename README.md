@@ -1,7 +1,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/fabianosfbr/fabianosfbr/main/header.jpg" width="450"/>
+<img src="https://raw.githubusercontent.com/fabianosfbr/fabianosfbr/main/header.jpg"/>
 
 
 ### Hi there 👋
