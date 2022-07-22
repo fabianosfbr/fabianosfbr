@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on converting the Ad Network server to Laravel 8 App
-⚡ Interest includes Development Java, Spring Framework, PHP, Laravel Framework
+
+⚡ Interest includes Development Java, Spring Framework, PHP, Laravel Framework, Tailwindcss, Javascript and ReactJS
+
 📫 How to reach me: contato@fabianofernandes.adm.br
+
 
 😍 JAVA PHP JAVASCRIPT SPRING LARAVEL NODE REACTJS UBUNTU TAILWINDCSS.
 
