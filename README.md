@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on converting the Ad Network server to Laravel 8 App
+⚡ Interest includes Development Java, Spring Framework, PHP, Laravel Framework
+📫 How to reach me: contato@fabianofernandes.adm.br
+
+😍 JAVA PHP JAVASCRIPT SPRING LARAVEL NODE REACTJS UBUNTU TAILWINDCSS.
+
+
 <!--
 **fabianosfbr/fabianosfbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
