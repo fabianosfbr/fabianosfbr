@@ -6,11 +6,12 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on converting the Ad Network server to Laravel 8 App
 
-⚡ Interest includes Development Java, Spring Framework, PHP, Laravel Framework, Tailwindcss, Javascript and ReactJS
+🔭 I’m Mestre em Ciência da Computação pel Centro Universitário Campo Limpo Paulista, com Pós-Graduação em Engenharia de Sistema , MBA em Gestão Estratégica de Empresa pela FCG-Escola Internacional de Negócios, Licenciatura em Matemática e Bacharel em Administração. Coordenação de toda área de TI, envolvendo infraestrutura e desenvolvimento de software, atuação na governança de TI e engenharia de processos. Docente universitário desde 2009 com foco em Aprendizado de lógica de programaçao e matemática, programação orientada a objetos, desenvolvimento de aplicações web, engenharia de software e banco de dados.
 
-📫 How to reach me: contato@fabianofernandes.adm.br
+⚡ Áreas de interessa: Programação, Engenharia de Software, Lógica de Programação, Sistemas Distribuídos, Banco de Dados
+
+📫 Deseja falar comigo: contato@fabianofernandes.adm.br ou encontrme-nas redes sociais: @fabianosfbr
 
 
 😍 JAVA PHP JAVASCRIPT SPRING LARAVEL NODE REACTJS UBUNTU TAILWINDCSS.
