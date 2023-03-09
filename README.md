@@ -14,7 +14,7 @@
 📫 Deseja falar comigo: contato@fabianofernandes.adm.br ou encontrme-nas redes sociais: @fabianosfbr
 
 
-😍 JAVA PHP JAVASCRIPT SPRING LARAVEL NODE REACTJS UBUNTU TAILWINDCSS.
+😍 JAVA PHP JAVASCRIPT SPRING LARAVEL LIVEWIRE ALPINEJS NODE VUEJS REACTJS UBUNTU TAILWINDCSS.
 
 
 <!--
