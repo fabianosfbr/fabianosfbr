@@ -8,7 +8,9 @@
 
 
 Tech Lead e Desenvolvedor Full Stack com mais de 15 anos de experiência no desenvolvimento de aplicações web, liderança técnica e arquitetura de soluções escaláveis. Especialista em PHP, Laravel, FilamentPHP, Livewire, Node.js, NestJS e ecossistema JavaScript/TypeScript. Atuo na definição de arquiteturas, modernização de sistemas legados, implementação de pipelines CI/CD, integrações corporativas e sustentação de aplicações críticas. Nos últimos anos, tenho ampliado minha atuação com Inteligência Artificial aplicada ao desenvolvimento de software, automação de processos, produtividade de equipes e construção de agentes inteligentes, contribuindo para acelerar entregas, aumentar a qualidade do código e otimizar operações de negócio.
+
 Docente universitário desde 2009 com foco em aprendizado de lógica de programação e matemática, programação orientada a objetos, desenvolvimento de aplicações web, engenharia de software, modelagem de dados e banco de dados.
+
 
 
 
