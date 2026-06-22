@@ -7,16 +7,12 @@
 ### Hi there 👋
 
 
-🔭 I’m Mestre em Ciência da Computação pelo Centro Universitário Campo Limpo Paulista, com Pós-Graduação em Engenharia de Sistema , MBA em Gestão Estratégica de Empresa pela FCG-Escola Internacional de Negócios, Licenciatura em Matemática e Bacharel em Administração. 
-
-Há 15 anos de estrada na área de tecnologia tendo passado por diversos níveis, desde o desenvolvimento e suporte de sistemas, coordenação de equipes e Gerente de TI. Experiência com servidores Linux , bancos MySQL e PostgreSQL. Nos últimos 7 anos atuando principalmente como desenvolvedor de aplicações web que é minha grande paixão e competência. 
-
-Com a experiência acumulada tenho facilidade para interagir e servir de ponte entre a área de negócios e a equipe técnica. Sou extremamente obstinado em resolver problemas que se apresentem nos projetos, tanto os técnicos como aqueles que envolvam algum tipo de definição de negócios.
-
-Docente universitário desde 2009 com foco em Aprendizado de lógica de programação e matemática, programação orientada a objetos, desenvolvimento de aplicações web, engenharia de software e banco de dados.
+Tech Lead e Desenvolvedor Full Stack com mais de 15 anos de experiência no desenvolvimento de aplicações web, liderança técnica e arquitetura de soluções escaláveis. Especialista em PHP, Laravel, FilamentPHP, Livewire, Node.js, NestJS e ecossistema JavaScript/TypeScript. Atuo na definição de arquiteturas, modernização de sistemas legados, implementação de pipelines CI/CD, integrações corporativas e sustentação de aplicações críticas. Nos últimos anos, tenho ampliado minha atuação com Inteligência Artificial aplicada ao desenvolvimento de software, automação de processos, produtividade de equipes e construção de agentes inteligentes, contribuindo para acelerar entregas, aumentar a qualidade do código e otimizar operações de negócio.
+Docente universitário desde 2009 com foco em aprendizado de lógica de programação e matemática, programação orientada a objetos, desenvolvimento de aplicações web, engenharia de software, modelagem de dados e banco de dados.
 
 
-⚡ Áreas de interessa: Programação, Engenharia de Software, Lógica de Programação, Sistemas Distribuídos, Banco de Dados
+
+⚡ Áreas de interessa: Programação, Engenharia de Software, Lógica de Programação, Sistemas Distribuídos, Banco de Dados, IA aplicada ao desenvolvimento de software (AI-Assisted Development), Desenvolvimento de Agentes de IA (AI Agents).
 
 📫 Deseja falar comigo: contato@fabianofernandes.adm.br ou encontrme-nas redes sociais: @fabianosfbr
 
